@@ -1,0 +1,8 @@
+mask are 4 in video 0x10
+need to change the for
+4 masks of color
+the 4 mask are process
+4 time by mask and 
+operate and 4 times
+using the or mask
+by the 4 color bit mask
