@@ -1,0 +1,15 @@
+in screen 0x10
+the area of memory
+is the adress a000:0000
+start by active the 4
+mask colors the
+blue mask the green
+mask red mask and brish
+mask change by io port
+of vga color change
+
+8421
+brgb
+the brish red green and blue
+masks masks value colors
+fom 0 to 15
